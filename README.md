@@ -14,3 +14,4 @@ Los Reales Brrr
 * Carlos David Ramirez Muñoz - [w1sec0d](https://github.com/w1sec0d)
 
 * juan modificación readme
+* juan modificación rama2 
