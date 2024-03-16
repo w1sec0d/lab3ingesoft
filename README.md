@@ -2,7 +2,7 @@
 Repositorio creado para aprender a usar el control de versiones con git y github en el curso Ingeniería de Software 1
 
 ## Nombre de equipo
-Los Reales Brrr
+Los Reales Brrrrr
 
 ## Integrantes (nombre - usuario Github):
 * Nicolás Felipe Arciniegas Lizarazo - [narciniegasl](https://github.com/narciniegasl)
