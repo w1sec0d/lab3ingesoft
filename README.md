@@ -12,3 +12,6 @@ Los Reales Brrr
 * Laura Daniela Agudelo Cruz - [laurad08412](https://github.com/laurad08412)
 * Juan David Madrid Contreras - [JuMad-SE](https://github.com/JuMad)
 * Carlos David Ramirez Muñoz - [w1sec0d](https://github.com/w1sec0d)
+
+* juan modificación readme
+* juan modificación rama2 
